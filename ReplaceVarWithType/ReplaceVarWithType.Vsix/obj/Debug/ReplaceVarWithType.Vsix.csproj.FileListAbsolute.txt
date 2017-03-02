@@ -1,9 +1,0 @@
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\bin\Debug\ReplaceVarWithType.Vsix.vsix
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\bin\Debug\extension.vsixmanifest
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\bin\Debug\ReplaceVarWithType.dll
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\bin\Debug\ReplaceVarWithType.pdb
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\obj\Debug\ReplaceVarWithType.Vsix.csprojResolveAssemblyReference.cache
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\obj\Debug\ReplaceVarWithType.Vsix.dll
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\obj\Debug\ReplaceVarWithType.Vsix.pdb
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\obj\Debug\extension.vsixmanifest
-D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType.Vsix\bin\Debug\var.JPG
