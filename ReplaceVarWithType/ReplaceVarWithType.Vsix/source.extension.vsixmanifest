@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="ReplaceVarWithType..7e5909ce-5a1a-42da-a4f9-d9e046e304ea" Version="1.0" Language="en-US" Publisher="Rishabh Verma"/>
+    <DisplayName>Replace var With Type</DisplayName>
+    <Description xml:space="preserve">This is a code refactoring extension based on the .NET Compiler Platform ("Roslyn") which replaces the usage of var with strong type equivalent.</Description>
+    <Icon>var.JPG</Icon>
+    <PreviewImage>var.JPG</PreviewImage>
+    <Tags>var, strong type, Roslyn, .NET Compiler</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Version="[14.0,]" Id="Microsoft.VisualStudio.Pro" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="ReplaceVarWithType" Path="|ReplaceVarWithType|"/>
+  </Assets>
+</PackageManifest>

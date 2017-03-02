@@ -1,0 +1,5 @@
+D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType\bin\Debug\ReplaceVarWithType.dll
+D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType\bin\Debug\ReplaceVarWithType.pdb
+D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType\obj\Debug\ReplaceVarWithType.csprojResolveAssemblyReference.cache
+D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType\obj\Debug\ReplaceVarWithType.dll
+D:\Projects\RishabhTools\MyTools\ReplaceVarWithType\ReplaceVarWithType\ReplaceVarWithType\obj\Debug\ReplaceVarWithType.pdb

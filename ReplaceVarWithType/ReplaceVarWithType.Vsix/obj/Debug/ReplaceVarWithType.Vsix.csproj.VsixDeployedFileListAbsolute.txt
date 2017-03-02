@@ -1,0 +1,7 @@
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\rishabhv\ReplaceVarWithType\1.0\\ReplaceVarWithType.dll
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\rishabhv\ReplaceVarWithType\1.0\\extension.vsixmanifest
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\rishabhv\ReplaceVarWithType\1.0\\ReplaceVarWithType.pdb
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Rishabh Verma\Replace var With Type\1.0\\ReplaceVarWithType.dll
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Rishabh Verma\Replace var With Type\1.0\\extension.vsixmanifest
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Rishabh Verma\Replace var With Type\1.0\\var.JPG
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Rishabh Verma\Replace var With Type\1.0\\ReplaceVarWithType.pdb
