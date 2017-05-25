@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f74i4v849ilveuaj?svg=true)](https://ci.appveyor.com/project/Rishabh-V/vartotype)
+
 # var To Type
 Visual Studio 2015 Extension to replace var with strong type. 
 
